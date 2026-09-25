@@ -1,5 +1,4 @@
 # Hello Calculator MVP v1.0
-
 Một Web App calculator nhỏ phục vụ giảng dạy các khái niệm nền tảng:
 
 **HTML → CSS → JavaScript → DOM → Event → State → Render → Test**
